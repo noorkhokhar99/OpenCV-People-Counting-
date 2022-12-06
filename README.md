@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-` python player_detection.py`
+` python python counter.py `
 
 
 
